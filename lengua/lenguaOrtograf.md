@@ -171,3 +171,164 @@ Ejemplos:
     - Adjetivo posesivo: _Tu pulóver me parece bellísimo._
   - Con tilde:
     - Pronombre personal: _Me gusta que tú vengas a visitarme._
+
+## Reglas de consonantes:
+
+**Usos de "B"**
+
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+
+**Usos de "V"**
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+-
+  -
+
+**Usos de "C"**
+
+- Los vocablos que en singular terminan en _"z"_, cuando pasan al plural y al formar sus derivados, cambian por _"c"_ delante de _"e"_ o _"i"_.
+  - Ejemplos: pez -> peces, nariz -> narices, lápiz -> lapicero.
+- Los diminutivos terminados en _"-cito/a"_, _"-cillo/a"_, _"-cico/a"_.
+  - Ejemplos: nubecita, solcito, villancico, panecillo, jefecillo.
+  - Excepciones: Los diminutivos de las palabras que tengan _"s"_ en la última sílaba, la conservan. Ejemplos: casa, casita, mesa, mesita.
+- Las palabras terminadas en _"-ancia/o"_, _"-encia/o"_.
+  - Ejemplos: emergencia, infancia.
+  - Excepciones: ansia y Hortensia.
+- Las palabras que terminan en _"-cida"_ ("que mata").
+  - Ejemplos: raticida, homicida, insecticida.
+- Los verbos terminados en _"-cer"_, _"-cir"_, _"-ciar"_.
+  - Ejemplos: nacer, fruncir, despreciar
+  - Excepciones: ser, toser, asir, anestesiar y coser ("unir con hilos").
+- La terminación _"-unción"_.
+  - Ejemplos: función, presunción.
+- La terminación _"-ción"_ se escribe con _"c"_ en los siguientes casos:
+  - Los vocablos que derivan de verbos finalizados en _"-der"_, _"-dir"_, _"-tir"_ que mantienen la _"d"_ o la _"t"_ en la última sílaba del infinitivo en la última sílaba del infinitivo.
+    - Ejemplo: perder -> perdición.
+  - Las palabras relacionadas con artículos terminadas _"-to"_.
+    - Ejemplo: opuesto -> oposición.
+
+**Usos de "S"**
+
+- La terminación _"-sión"_ en los siguientes casos:
+  - Los derivados de verbos terminados en _"-der"_, _"-dir"_, _"-ter"_, _"-tir"_ que no conservan la _"d"_ o la _"t"_ del verbo base.
+    - Ejemplos: comprensión (de comprender), agresión (de agredir), diversión (de divertir).
+  - Los derivados de los verbos terminados en _"-sar"_ que no contienen la sílaba _"-sa"_.
+    - Ejemplos: precisión (de precisar), progresión (de progresar).
+  - Los derivados de verbos terminados en _"-primir"_ o _"-cluir"_.
+    - Ejemplos: impresión (de imprimir), conclusión (de concluir) 
+- Los superlativos terminados en _"-ísimo"_.
+  - Ejemplos: bellísimo, tardísimo.
+- Los adjetivos terminados en _"-oso"_, _"-osa"_.
+  - Ejemplos: bondadoso, graciosa.
+- Los gentilicios terminados en _"-ense"_.
+  - Ejemplos: bonaerense, nicaragüense.
+  - Excepciones: vascuence.
+- Las terminaciones _"-esa"_, _"-isa"_ de los sustantivos femeninos irregulares.
+  - Ejemplos: princesa, poetisa.
+
+**Usos de "Z"**
+
+- Los adjetivos terminados en _"-az"_.
+  - Ejemplos: audaz, capaz, fugaz.
+- Los sustantivos terminados en _"-anza"_.
+  - Ejemplos: tardanza, esperanza.
+- Las palabras que terminan en _"-azo"_, _"-aza"_ (con valor aumentativo o que denotan un golpe fuerte).
+  - Ejemplos: golazo, portazo, madraza.
+- Los sustantivos abstractos terminados en _"-ez"_, _"-eza"_.
+  - Ejemplos: vejez, belleza, riqueza.
+- Las terminaciones _"-zuelo"_, _"-zuela"_.
+  - Ejemplos: ladronzuela, reyezuelo.
+
+**Usos de "G"**
+
+- Las palabras que empiezan por el elemento compositivo _"geo-"_ (tierra).
+  - Ejemplos: geógrafo, geometría.
+- Las voces que terminan en _"-gia"_, _"-gía"_, _"-gio"_, _"-gión"_.
+  - Ejemplos: magia, energía, religión.
+  - Excepciones: bujía, jerejía, lejía.
+- Las palabras que terminan en _"-gente"_, _"-gencia"_.
+  - Ejemplos: urgencia, detergente, regencia.
+- Las palabras que terminan en _"-logía"_ (conocimiento).
+  - Ejemplos: teología, biología.
+- Los verbos terminados en _"-ger"_, _"-gir"_, _"-giar"_, _"-igerar"_.
+  - Ejemplos: proteger, fingir, contagiar, aligerar.
+  - Excepciones: tejer, crujir.
+
+**Usos de "J"**
+
+- Las voces que terminen en _"-aje"_, _"-eje"_.
+  - Ejemplos: coraje, hereje, garaje.
+- Las palabras que terminen en _"-jero"_, _"-jera"_, _"-jería"_.
+  - Ejemplos: cerrajería, extranjera, relojero.
+  - Excepción: ligero.
+- Las conjugaciones de los verbos que terminan en _"-jar"_.
+  - Ejemplos: trabaje, empujemos, cortejaría.
+- El Pretérito Perfecto Simple, el Pretérito Imperfecto y el Futuro Imperfecto del Modo Subjuntivo de los verbos traer, decir y de los verbos terminados en _"-ducir"_.
+  - Ejemplos: traduje, condujo, dijera, redujera.
+
+**Usos de "H"**
+
+- Las palabras que comienzan con los diptongos _"ia-"_, _"ie-"_.
+  - Ejemplos: hiato, hielo.
+- Las palabras que comienzan con _"um-"_ seguidas de vocal.
+  - Ejemplos: humedad, humo, humilde.
+- Las conjugaciones de verbos haber, hacer, hallar, hablar, habitar, hartar, herir, hurtar y hundir.
+  - Ejemplos: hago, hallaremos, hablará, habitó, harta, hiere, hundo, hurtara.
+- Las palabras que contienen los diptongos _"ue"_, _"ui"_ al comienzo de sílaba.
+  - Ejemplos: huevo, huérfano, huesped, huir.
+- Las palabras que comienzan con los prefijos _"hidr-"_, _"hiper-"_, _"homo-"_, _"helio-"_, _"hemi-"_, _"hemo-"_. 
+  - Ejemplos: hidromasaje, hipermercado, homogéneo, heliocéntrico, hemisferio, hemorragia.
+
+> Importante:
+> Las palabras de la misma familia que lleven _"o"_ en lugar del diptongo _"ue"_ no llevan _"h"_.
+> Ejemplos: orfandad, óseo, óvalo, oler.
+
+**Usos de "R"**
+
+- Al comienzo de una palabra se escribe _r_ (el sonido siempre es fuerte).
+  - Ejemplos: ravioles, risa, rosa.
+- Después de una consonante se escribe _r_ (aunque el sonido sea fuerte).
+  - Ejemplos: Enrique, alrededor
+- Entre vocales se coloca _rr_ cuando el sonido es fuerte.
+  - Ejemplos: perro, sierra, corriendo.
