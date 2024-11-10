@@ -6,15 +6,16 @@
 
 > Indica una pausa breve.
 
-- Usos de la coma
-  - Se utiliza para separar los elementos de una *enumeración*.
-    - Ejemplo: Compró aceitunas, queso, fiambres y gaseosas
-  - Se emplea para indicar la *omisión* del verbo.
-    - Ejemplo: Lucía es muy agradable; Pedro, antipático.
-  - Se utiliza para contener el *vocativo*.
-    - Ejemplo: Escuchen, alumnos, a su profesor.
-  - Se utiliza para contener *elementos explicativos*.
-    - Ejemplo: Su vestido, lleno de colores, atrajo las miradas.
+Usos de la coma
+
+- Se utiliza para separar los elementos de una *enumeración*.
+  - Ejemplo: Compró aceitunas, queso, fiambres y gaseosas
+- Se emplea para indicar la *omisión* del verbo.
+  - Ejemplo: Lucía es muy agradable; Pedro, antipático.
+- Se utiliza para contener el *vocativo*.
+  - Ejemplo: Escuchen, alumnos, a su profesor.
+- Se utiliza para contener *elementos explicativos*.
+  - Ejemplo: Su vestido, lleno de colores, atrajo las miradas.
 
 **El punto y coma**
 
@@ -77,9 +78,8 @@ Se consideran diptongos las siguientes combinaciones vocálicas:
 *Hiato*: cuando dos vocales seguidas dentro de una palabra pertenecen a sílabas distintas, constituyen un hiato.
 Se consideran hiatos las siguientes combinaciones vocálicas:
 
-- Una vocal cerrada tónica (i-u) seguida o precedida de una vocal abierta (a-e-o).
+- Una vocal cerrada tónica (i-u) seguida o precedida de una vocal abierta (a-e-o). La vocal cerrada tónica deberá llevar tilde siempre.
   - Ejemplos: María, búho, caía, reído, río. Este caso de hiato no se rige por las reglas generales de acentuación.
-    > La vocal cerrada tónica deberá llevar tilde siempre.
 - Dos vocales abiertas (a-e-o). 
   - Ejemplos: caer, roedor, aleteo, veo.
 
@@ -117,60 +117,76 @@ Ejemplos:
 > Las palabras que, quien/ quienes, como, cual/ cuales, cuan, cuando, cuanto, donde, adonde, llevan tilde cuando son *exclamativos* o *interrogativos*.
 
 Ejemplos:
+
 - ¿Qué hora es? (Pregunta directa)
 - Por favor, decime qué hora es. (Pregunta indirecta)
 - ¡Qué bello día!
 
 **Acentuación de monosílabos**
 
-- De, dé
-  - Sin tilde:
-    - Preposición: _La casa de Pedro es amplia._
-    - Sustantivo (letra _D_): _Le bodró una de en su remera._
-  - Con tilde:
-    - Forma conjugada del verbo dar: _Decile que te de el vuelto._
-- El, él
-  - Sin tilde:
-    - Artículo: _El niño se acercó con alegría._
-  - Con tilde:
-    - Pronombre personal: _Él hizo un barco de papel._
-- Mas, más
-  - Sin tilde:
-    - Conjunción (puede reemplazarse por _pero_): _Me gustaría acompañarte mas no puedo.._
-  - Con tilde:
-    - Adverbio de cantidad: _Debes estudiar más._
-    - Sustantivo (signo matemático): _En esta suma, falta el signo más._ 
-- Mi, mí
-  - Sin tilde: 
-    - Adjetivo posesivo: _Claudio es mi hermano._
-    - Sustantivo (nota musical): _Hizo un acorde de mí en el piano._
-  - Con tilde:
-    - Pronombre personal: _A mí me gusta cantar._
-- Se, sé
-  - Sin tilde:
-    - Pronombre personal: _Se arrepintió de lo que dijo aquella noche._
-  - Con tilde:
-    - Forma del verbo ser: _Sé amable con tu nuevo compañero._
-    - Forma del verbo saber: _Sé que puedes hacerlo._
-- Si, sí
-  - Sin tilde:
-    - Conjunción: _Si llueve, no iré a visitarte._
-    - Sustantivo (nota musical): _Esa melodía comenzaba en si mayor._
-  - Con tilde:
-    - Adverbio de afirmación: _Sí, seguramente Andrés ganará ese premio._
-    - Pronombre personal: _Confiaba en sí misma._
-    - Sustantivo (aprobación o consentimiento): _Le dió el sí que tanto esperaba._
-- Te, té
-  - Sin tilde:
-    - Pronombre personal: _Te escuché con claridad._
-    - Sustantivo (letra): _Debes practicar la te cursiva._
-  - Con tilde:
-    - Sustantivo (planta o infusión): _¿Quieres tomar un té?_
-- Tu, tú
-  - Sin tilde:
-    - Adjetivo posesivo: _Tu pulóver me parece bellísimo._
-  - Con tilde:
-    - Pronombre personal: _Me gusta que tú vengas a visitarme._
+> **De, dé**
+
+- Sin tilde:
+  - Preposición: _La casa de Pedro es amplia._
+  - Sustantivo (letra _D_): _Le bodró una de en su remera._
+- Con tilde:
+  - Forma conjugada del verbo dar: _Decile que te de el vuelto._
+
+> **El, él**
+
+- Sin tilde:
+  - Artículo: _El niño se acercó con alegría._
+- Con tilde:
+  - Pronombre personal: _Él hizo un barco de papel._
+
+> **Mas, más**
+
+- Sin tilde:
+  - Conjunción (puede reemplazarse por _pero_): _Me gustaría acompañarte mas no puedo.._
+- Con tilde:
+  - Adverbio de cantidad: _Debes estudiar más._
+  - Sustantivo (signo matemático): _En esta suma, falta el signo más._ 
+
+> **Mi, mí**
+
+- Sin tilde: 
+  - Adjetivo posesivo: _Claudio es mi hermano._
+  - Sustantivo (nota musical): _Hizo un acorde de mí en el piano._
+- Con tilde:
+  - Pronombre personal: _A mí me gusta cantar._
+
+> **Se, sé**
+
+- Sin tilde:
+  - Pronombre personal: _Se arrepintió de lo que dijo aquella noche._
+- Con tilde:
+  - Forma del verbo ser: _Sé amable con tu nuevo compañero._
+  - Forma del verbo saber: _Sé que puedes hacerlo._
+
+> **Si, sí**
+
+- Sin tilde:
+  - Conjunción: _Si llueve, no iré a visitarte._
+  - Sustantivo (nota musical): _Esa melodía comenzaba en si mayor._
+- Con tilde:
+  - Adverbio de afirmación: _Sí, seguramente Andrés ganará ese premio._
+  - Pronombre personal: _Confiaba en sí misma._
+  - Sustantivo (aprobación o consentimiento): _Le dió el sí que tanto esperaba._
+
+> **Te, té**
+
+- Sin tilde:
+  - Pronombre personal: _Te escuché con claridad._
+  - Sustantivo (letra): _Debes practicar la te cursiva._
+- Con tilde:
+  - Sustantivo (planta o infusión): _¿Quieres tomar un té?_
+
+> **Tu, tú**
+
+- Sin tilde:
+  - Adjetivo posesivo: _Tu pulóver me parece bellísimo._
+- Con tilde:
+  - Pronombre personal: _Me gusta que tú vengas a visitarme._
 
 ## Reglas de consonantes:
 
