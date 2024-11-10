@@ -176,54 +176,65 @@ Ejemplos:
 
 **Usos de "B"**
 
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
+- Los grupos consonánticos _"br"_ y _"bl"_.
+  - Ejemplos: brazo, brisa, blando
+- Los verbos terminados en _"-bir"_.
+  - Ejemplos: prohibir, escribir, recibir.
+  - Excepciones: hervir, servir y vivir.
+- Los verbos terminados en _"-buir"_.
+  - Ejemplos: distribuir, contribuir, atribuir.
+- Los verbos _haber_, _deber_, _beber_, _caber_, _saber_ y _sorber_.
+- Las terminaciones _"-aba"_, _"-abas"_, _"-ábamos"_, _"-abais"_, _"-aban"_ del Pretérito Imperfecto del Indicativo de los verbos de la _primera conjugación_.
+  - Ejemplos: trabajabas, amaban, bailábamos.
+- El Pretérito Imperfecto del Indicativo del verbo _ir_.
+  - Ejemplos: iba, íbamos.
+- Las palabras que comienzan con _"biblio-"_ (libro).
+  - Ejemplos: biblioteca, bibliografía.
+- Las palabras que comienzan con _"bu-"_, _"bur-"_, _"bus-"_.
+  - Ejemplos: burro, burla, buscar.
+  - Excepción: vudú.
+- Las palabras que empiezan con los prefijos _"bi-"_, _"bis-"_, _"biz-"_ (‘dos’ o ‘dos veces’).
+  - Ejemplos: bicicleta, bisnieto, bizcocho.
+- Las palabras que contienen el elemento compositivo _bio_ (‘vida’).
+  - Ejemplos: biografía, microbio.
+- Las palabras que comienzan con _bien_ o su forma latina _bene_.
+  - Ejemplos: bienaventurado, bienvenido, benéfico.
+- Las palabras que terminan en _"-bilidad"_.
+  - Ejemplos: amabilidad, habilidad, posibilidad.
+  - Excepciones: movilidad, civilidad, servilidad.
+- Las palabras terminadas en _"-bundo"_, _"-bunda"_.
+  - Ejemplo: vagabundo.
+- Los vocablos que comienzan con las sílabas _"ta-"_, _"te-"_, _"ti-"_, _"to-"_, _"tu-"_, _"tur-"_, _"tra-"_, _"tre-"_, _"tri-"_.
+  - Ejemplos: trabajo, trébol, tibio.
+  - Excepciones: través, travieso, trivial, travesía, travesaño.
+- Las palabras que comienzan con los prefijos _"sub-"_, _"ab-"_, _"ob-"_.
+  - Ejemplos: subterráneo, absoluto, obsoleto.
 
 **Usos de "V"**
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
--
-  -
+
+- El Pretérito Perfecto Simple del Modo Indicativo, Pretérito Imperfecto y Futuro Imperfecto del Modo Subjuntivo de los verbos _andar_, _estar_ y _tener_.
+  - Ejemplos: anduvo, estuviésemos, tuvo.
+- Las palabras que comienzan con _"eva-"_, _"eve-"_, _"evi-"_, _"evo-"_.
+  - Ejemplos: evangelización, evento, evidente, evolución.
+  - Excepción: ébano.
+- Los adjetivos graves que terminan en -ava, _"-ave"_, _"-avo"_, _"-eva"_, _"-eve"_, _"-evo"_, _"-iva"_, _"-ivo"_.
+  - Ejemplos: leve, suave, bravo, nativo.
+- Los vocablos que comienzan con las sílabas _"lla-"_, _"lle-"_, _"llo-"_, _"llu-"_.
+  - Ejemplos: llovizna, lluvia.
+- Las palabras esdrújulas terminadas en _"–ívoro"_, _"-ívora"_.
+  - Ejemplos: omnívoro, carnívoro.
+  - Excepción: víbora.
+- Las vocablos que comienzan _"sal-"_, _"sel-"_, _"sil-"_, _"sol-"_.
+  - Ejemplos: salvaje, selva, silvestre.
+  - Excepción: silbar.
+- Las palabras que comienzan con los prefijos _"vice-"_, _"vi-"_, _"viz-"_ (“en lugar de”, “inferior a”).
+  - Ejemplos: vicedirector, virrey
+- Después de las consonantes _"d"_ y _"b"_.
+  - Ejemplos: adversario, subvencionar.
+- Después de _"ol-"_.
+  - Ejemplos: olvido, pólvora, solvencia.
+- Las partículas _"clav-"_ y _"equiv-"_.
+  - Ejemplos: clavo, equivocar.
 
 **Usos de "C"**
 
@@ -304,7 +315,7 @@ Ejemplos:
   - Excepción: ligero.
 - Las conjugaciones de los verbos que terminan en _"-jar"_.
   - Ejemplos: trabaje, empujemos, cortejaría.
-- El Pretérito Perfecto Simple, el Pretérito Imperfecto y el Futuro Imperfecto del Modo Subjuntivo de los verbos traer, decir y de los verbos terminados en _"-ducir"_.
+- El Pretérito Perfecto Simple, el Pretérito Imperfecto y el Futuro Imperfecto del Modo Subjuntivo de los verbos _traer_, _decir_ y de los verbos terminados en _"-ducir"_.
   - Ejemplos: traduje, condujo, dijera, redujera.
 
 **Usos de "H"**
@@ -313,7 +324,7 @@ Ejemplos:
   - Ejemplos: hiato, hielo.
 - Las palabras que comienzan con _"um-"_ seguidas de vocal.
   - Ejemplos: humedad, humo, humilde.
-- Las conjugaciones de verbos haber, hacer, hallar, hablar, habitar, hartar, herir, hurtar y hundir.
+- Las conjugaciones de verbos _haber_, _hacer_, _hallar_, _hablar_, _habitar_, _hartar_, _herir_, _hurtar_ y _hundir_.
   - Ejemplos: hago, hallaremos, hablará, habitó, harta, hiere, hundo, hurtara.
 - Las palabras que contienen los diptongos _"ue"_, _"ui"_ al comienzo de sílaba.
   - Ejemplos: huevo, huérfano, huesped, huir.
